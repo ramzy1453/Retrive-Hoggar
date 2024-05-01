@@ -1,0 +1,211 @@
+# Blender 3.4.1 MTL File: '3.blend'
+# www.blender.org
+
+newmtl Stone
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/DO WYSŁANIA/9_TURKISH_HOUSES_PACK/EXPORT_9_TURKISH_HOUSES_PACK/turkish_house_003/textures/T_concrete_yellowish_BaseColor.png
+map_Ks D:/ZLECENIA/Modele3D/PACZKI/DO WYSŁANIA/9_TURKISH_HOUSES_PACK/EXPORT_9_TURKISH_HOUSES_PACK/turkish_house_003/textures/T_concrete_yellowish_egypt_bc_spec.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/DO WYSŁANIA/9_TURKISH_HOUSES_PACK/EXPORT_9_TURKISH_HOUSES_PACK/turkish_house_003/textures/T_concrete_yellowish_Roughness.png
+map_Bump -bm 8.000000 D:/ZLECENIA/Modele3D/PACZKI/DO WYSŁANIA/9_TURKISH_HOUSES_PACK/EXPORT_9_TURKISH_HOUSES_PACK/turkish_house_003/textures/T_concrete_yellowish_NormalMap.png
+
+newmtl Wood
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/Wood/T_wood_raw_BaseColor.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/Wood/T_wood_raw_NormalMap_strong.png
+
+newmtl Wood.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 5.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.006
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.007
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.008
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.009
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.011
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.012
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.013
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.014
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.015
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.016
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.017
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png
+
+newmtl Wood.018
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_bc.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_r.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/T_wood_raw_n_strong.png

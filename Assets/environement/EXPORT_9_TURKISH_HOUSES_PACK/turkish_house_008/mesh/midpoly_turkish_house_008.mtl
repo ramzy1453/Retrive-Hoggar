@@ -1,0 +1,35 @@
+# Blender 3.4.1 MTL File: '8.blend'
+# www.blender.org
+
+newmtl Fabric
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/fabric/T_fabric_brown2_BaseColor.png
+map_Ks D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/fabric/SpecularMap.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/fabric/NormalMap.png
+
+newmtl Material
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/DO WYSŁANIA/9_TURKISH_HOUSES_PACK/EXPORT_9_TURKISH_HOUSES_PACK/turkish_house_008/textures/T_concrete_yellowish_BaseColor.png
+map_Ks D:/ZLECENIA/Modele3D/PACZKI/DO WYSŁANIA/9_TURKISH_HOUSES_PACK/EXPORT_9_TURKISH_HOUSES_PACK/turkish_house_008/textures/T_concrete_yellowish_egypt_bc_spec.png
+map_Ns D:/ZLECENIA/Modele3D/PACZKI/DO WYSŁANIA/9_TURKISH_HOUSES_PACK/EXPORT_9_TURKISH_HOUSES_PACK/turkish_house_008/textures/T_concrete_yellowish_Roughness.png
+map_Bump -bm 8.000000 D:/ZLECENIA/Modele3D/PACZKI/DO WYSŁANIA/9_TURKISH_HOUSES_PACK/EXPORT_9_TURKISH_HOUSES_PACK/turkish_house_008/textures/T_concrete_yellowish_NormalMap.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/Wood/T_wood_raw_BaseColor.png
+map_Bump -bm 1.000000 D:/ZLECENIA/Modele3D/PACZKI/TURKISH/Textures/Wood/T_wood_raw_NormalMap_strong.png
